@@ -1,23 +1,30 @@
 ---
 name: User Story
-about: Create a user story for the GiftLink project
-title: "As a [user], I want [action], so that [benefit]"
+about: Create a user story for the Fullstack Capstone Project
+title: "As a [role], I need [function] so that [benefit]"
 labels: ["new"]
 ---
 
 ## User Story
 
-As a **[type of user]**, I want **[capability]**, so that **[benefit/value]**
+As a **[role]**, I need **[function]** so that **[benefit]**
 
 ## Acceptance Criteria
 
-- [ ] Criterion 1
-- [ ] Criterion 2
-- [ ] Criterion 3
+**Scenario 1: [Description]**
+- Given [context]
+- When [action]
+- Then [outcome]
+
+**Scenario 2: [Description]**
+- Given [context]
+- When [action]
+- Then [outcome]
 
 ## Tasks
 
 - [ ] Task 1
 - [ ] Task 2
+- [ ] Task 3
 
 ## Notes
